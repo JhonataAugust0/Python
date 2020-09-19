@@ -11,6 +11,8 @@ Este repositório contém
 Além de alguns algoritmos de automação em Selenium e conteúdos de data science!
 
 Obrigado pela leitura e espero que este repositório o ajude! 
+
 [Acesse meu Instagram](https://www.instagram.com/https.jhonata_/?hl=pt-br)
+
 [Acesse meu Linkedin](https://www.linkedin.com/in/jhonata-augusto-2301541b5/)
  
