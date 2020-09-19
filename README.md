@@ -7,6 +7,7 @@ Este repositório contém
 - [x] Funções
 - [x] Modularização 
 - [x] POO
+
 Além de alguns algoritmos de automação em Selenium e conteúdos de data science!
 
 Obrigado pela leitura e espero que este repositório o ajude! 
