@@ -1,18 +1,18 @@
 # Python
-Este repositório tem a finalidade de compartilhar todos os meus aprendizados em Python! Aqui contém vários conteúdos de python que vão desde as suas primeiras estruturas até POO, todos bem comentados e com boas práticas.
+This repository is intended to share all my Python learnings! Here it contains several python content ranging from its first structures to OOP, all well commented and with good practices.
 ***
-Este repositório contém 
-- [x] Estruturas de decisão 
-- [x] Estruturas de repetição
-- [x] Funções
-- [x] Modularização 
-- [x] POO
+This repository contains
+- [x] Decision structures
+- [x] Repeating structures
+- [x] Functions
+- [x] Modularization
+- [x] OOP
 
-Além de alguns algoritmos de automação em Selenium e conteúdos de data science!
+In addition to some automation algorithms in Selenium and data science content!
 
-Obrigado pela leitura e espero que este repositório o ajude! 
+Thanks for reading and I hope this repository helps you!
 
-[Acesse meu Instagram](https://www.instagram.com/https.jhonata_/?hl=pt-br)
+[Access my Instagram](https://www.instagram.com/https.jhonata_/?hl=pt-br)
 
-[Acesse meu Linkedin](https://www.linkedin.com/in/jhonata-augusto-2301541b5/)
+[Access my Linkedin](https://www.linkedin.com/in/jhonata-augusto-2301541b5/)
  
